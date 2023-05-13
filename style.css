@@ -1,0 +1,15 @@
+span {
+    display:flex;
+    text-align: left;
+    justify-content: start;
+    font-size: 33px;
+    font-family:  'Times New Roman', Times, serif;
+    margin: 150px;
+    color:rgb(111, 0, 255);
+   
+}
+body{
+    background-image: url('2.JPEG');
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
